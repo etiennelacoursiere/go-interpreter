@@ -1,4 +1,4 @@
-## Lexer
+# Lexer
 
 The first step is to transform the source code in something easier to work with. This mean, taking in the source code and transforming first into token, then into a AST ( Abstract syntax tree ).
 
